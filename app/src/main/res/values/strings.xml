@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="true_text">TRUE</string>
+    <string name="false_text">FALSE</string>
+    <string name="next_button">NEXT</string>
+
+
+    <string name="question_text">The (U.S.) Declaration of Independeces was Adopted in 1776</string>
+    <string name="question_text1">Good friends should lie to you to make you feel better about yourself rather than telling you the truth...because</string>
+    <string name="question_text2">A friend should tell you to see a counsellor if you had a bad day and your friend doesn</string>
+    <string name="question_text3">Good friends can disagree without hurting each other.</string>
+    <string name="question_text4">Friends should borrow each others clothes and misplace them and repeatedly lie about the situation.</string>
+    <string name="question_text5">A friend should keep everything bottled up inside so that arguments </string>
+    <string name="correct_answer">That\'s correct </string>
+    <string name="wrong_answer">That\'s incorrect </string>
+
+
+</resources>
